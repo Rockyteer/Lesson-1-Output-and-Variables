@@ -34,10 +34,10 @@ Always start with a letter
 4. 'myFirstName' or my_first_name
 
 ## Concatenation
-+ adding strings together, appending (end to end)
+`+` adding strings together, appending (end to end)
 "Hello"+"World" =Hello World
 ## Type Case
 Forcing a data type on a value
 
 ### To force a string into an integer
-`int(variableName)
+`int(variableName)`
